@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Image Description](https://raw.githubusercontent.com/Uncle-Tom-s-School/pokedex-robeey13/499225fa26eae04a589a5a1a4e62fce0d2686096/szuperhos.png?token=AI6P4GKMPCCMUAGXUVYZYLLG6FKIG)
+![Image Description](https://github.com/Cyri0/Cyri0/blob/master/45719ed0533eaed76ede0f844781e962.gif)
 
 <!--
 **Cyri0/Cyri0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
